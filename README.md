@@ -1,5 +1,9 @@
 # pymdp 1.0.0 JAX Backend Benchmark
 
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md) [![中文](https://img.shields.io/badge/lang-中文-red)](README_CN.md)
+
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-0.9.2-A435F0?logo=jax&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-13.1-76B900?logo=nvidia&logoColor=white) ![pymdp](https://img.shields.io/badge/pymdp-1.0.0-FF6F00) ![Platform](https://img.shields.io/badge/Platform-aarch64-lightgrey?logo=arm&logoColor=white) ![GPU](https://img.shields.io/badge/GPU-NVIDIA_GB10-76B900?logo=nvidia&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Comprehensive performance evaluation of [pymdp](https://github.com/infer-actively/pymdp) 1.0.0 — the first major release that migrates Active Inference from NumPy to JAX.
 
 **Hardware**: NVIDIA GB10 (Grace Blackwell Superchip, aarch64)  
